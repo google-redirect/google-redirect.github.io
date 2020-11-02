@@ -1,0 +1,30 @@
+body{   
+    background: #f00;  
+}  
+h1{
+    text-align: -webkit-center;
+    color: yellow;
+}
+div{
+
+    margin-top: 5px;
+}
+label{
+
+    color: red;
+    font-family: arial,sans-serif;
+}
+#frm{  
+    border: solid gray 1px;  
+    width:50%;  
+    border-radius: 2px;  
+    margin: 120px auto;  
+    background: skyblue;  
+    padding: 50px;  
+}  
+#btn{  
+    color: #fff;  
+    background: #337ab7;  
+    padding: 7px;  
+    margin-left: 70%;  
+}  
